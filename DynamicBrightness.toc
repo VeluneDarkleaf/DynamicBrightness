@@ -1,0 +1,9 @@
+## Title: DynamicBrightness
+## Name: DynamicBrightness
+## Author: Velune
+## Interface: 16001
+## Version: @project-version@
+## SavedVariables: DynamicBrightnessSettings
+
+# Load primary addon source files
+DynamicBrightness.lua
