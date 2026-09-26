@@ -2,7 +2,7 @@ local defaultSettings = {
 	enabled = true,
 	brightnessAtDarkest = 55,
 	brightnessAtLightest = 45,
-	debug = true
+	debug = false
 }
 
 local settings
